@@ -1,0 +1,22 @@
+<!DOCTYPE html >
+
+<html>
+<head>
+<title>Page title</title>
+<link href="site.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<?php include ("menu.php"); ?>
+
+
+
+<p>This is about Covid </p>
+<p>The reaction of one person</p>
+
+<video src="*
+.mp4" width="1080" height="500" controls preload="false" ></video>
+
+
+</body>
+</html>
+
