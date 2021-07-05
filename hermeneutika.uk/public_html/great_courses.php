@@ -26,6 +26,7 @@
 
 <!-- this is a comment 25/2/20 at 2049 -->
 
+<<<<<<< HEAD
 <div class="nav">
 	<a href="index.php">Home</a>
 	<a href="pos1.htm">Philosopy of science</a>
@@ -39,6 +40,9 @@
 
 	</div>
 	
+=======
+<p> doing the philosophy of science </p>
+>>>>>>> 4b079360babab49d7d11dcaa7c08292a6d40a383
 
 </body>
 
