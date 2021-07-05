@@ -30,7 +30,7 @@
 <div class="nav">
 	<a href="index.php">Home</a>
 	<a href="philo.php">Philosopy</a>
-	<a href="theo.php">Theology</a>
+	<a href="theo.php">Theologytest</a>
 	<a href="science.php">Science</a>
 	<a href="great_courses.php">Great Courses</a>
 	<a href="notes.php">notes</a> 
